@@ -1,0 +1,50 @@
+---
+title: "Homework 1"
+subtitle: "Fresenius R Kurs"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    toc: true
+    theme: cayman
+    highlight: vignette
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, comment = NA)
+```
+
+
+
+
+## Task 1
+
+In dieser Aufgabe soll folgendes geschehen...
+
+Erstelle einen numerischen Vektor mit 5 Elementen
+
+
+```{r}
+# Erstelle hier deinen Vektor
+
+
+```
+
+
+## Task 2
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
